@@ -16,7 +16,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Projeto (API) 
 
-
+Criar um planejamento e estrategias para auxiliar na recita da empresa de materiais eletronicos.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
