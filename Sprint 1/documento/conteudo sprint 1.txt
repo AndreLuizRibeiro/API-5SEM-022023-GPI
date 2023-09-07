@@ -1,0 +1,8 @@
+Introdução
+Temos como objetivo principal aumentar significativamente o número de vendas da empresa de produtos eletrônicos, modernizando e aprimorando os seus canais de venda, proporcionando um aumento sustentável na receita e melhorando a posição competitiva da empresa no mercado.
+
+Métodos
+Para isso pensamos na criação de uma conta comercial através da plataforma whatsapp, utilização da plataforma instagram para auxiliar no marketing e divulgação da empresa, implementação de delivery, à apresentação de um novo fornecedor e a viabilização da plataforma Shopee como meio de venda.
+
+Próximos Passos
+Nesse primeiro momento iremos realizar uma pesquisa para entendermos a interface da plataforma WhatsApp, e assim poderemos realizaremos a documentação do passo a passo e o modo de usar.
