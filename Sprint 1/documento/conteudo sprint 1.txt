@@ -1,8 +1,30 @@
+Abertura e apresentação dos integrantes
+    Boa noite, nos somos a empresa stronger solutions, este semestre estamos prestando consultoria a empresa Hertz de produtos                 eletronicos.
+    Nossa equipe é formada pelo andre antunes - Scrum Master, Vitor - Product Owner, Danielle Vieira, Debora Valente e João Pedro que         fazem parte do scrum team
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Apresentação da empresa
+    Missão:
+    Temos como missão principal fornecer soluções de consultoria empresarial de alta qualidade, ajudando os nossos clientes a alcançar o       sucesso e o crescimento sustentável nos seus negócios. 
+    
+    Visão:
+    Nossa visão é ser reconhecido como um parceiro de confiança e uma referência em inovação, excelência e compromisso com os nossos           clientes.
+    
+    Valores:
+    Visamos como valores: excelência;	Integridade; Colaboração;	Inovação; Compromisso.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 Introdução
-Temos como objetivo principal aumentar significativamente o número de vendas da empresa de produtos eletrônicos, modernizando e aprimorando os seus canais de venda, proporcionando um aumento sustentável na receita e melhorando a posição competitiva da empresa no mercado.
+    Temos como objetivo principal aumentar significativamente o número de vendas da empresa de produtos eletrônicos, modernizando e           aprimorando os seus canais de venda, proporcionando um aumento sustentável na receita e melhorando a posição competitiva da empresa       no mercado.
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Métodos
-Para isso pensamos na criação de uma conta comercial através da plataforma whatsapp, utilização da plataforma instagram para auxiliar no marketing e divulgação da empresa, implementação de delivery, à apresentação de um novo fornecedor e a viabilização da plataforma Shopee como meio de venda.
+    Para isso pensamos na criação de uma conta comercial através da plataforma whatsapp, a viabilização da plataforma Shopee como meio de     venda, a utilização da plataforma instagram para auxiliar no marketing e divulgação da empresa, a apresentação de um novo fornecedor,     implementação da ferramenta uber flash para delivery de produtos.
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Próximos Passos
-Nesse primeiro momento iremos realizar uma pesquisa para entendermos a interface da plataforma WhatsApp, e assim poderemos realizaremos a documentação do passo a passo e o modo de usar.
+    Nesse primeiro momento iremos realizar uma pesquisa para entendermos a interface da plataforma WhatsApp, e assim poderemos realizar a     documentação do passo a passo e o modo de usar, tambem apresentaremos a plataforma shopee para vendas online.
