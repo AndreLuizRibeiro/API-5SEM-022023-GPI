@@ -20,10 +20,10 @@ Criar um planejamento e estrategias para auxiliar na recita da empresa de materi
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 23/08/2023 | concluido| [Ver Relatório]() | 
-|01 | 13/09/2023 | em progresso| [Ver Relatório]() | 
-|02|  11/10/2023| a fazer |[Ver Relatório]() | 
-|03| 08/11/2023 | a fazer|[Ver Relatório]() | 
+|Kick Off | 23/08/2023 | concluido | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%201/documento/API%20%E2%80%93%20GPI%20%E2%80%93%20Quinto%20semestre%20-%202023.2%20-%20%20Eletr%C3%B4nica%20Hertz.pptx) | 
+|01 | 13/09/2023 | concluido | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%201/documento/apresenta%C3%A7%C3%A3o.pptx) | 
+|02|  11/10/2023| em progresso |[Ver Relatório]() | 
+|03| 08/11/2023 | a fazer |[Ver Relatório]() | 
 |04| 06/12/2023 |a fazer |[Ver Relatório]() |
 |Feira de Soluções| 12/12/2023 | a fazer |[Ver Relatório]() | 
 
@@ -34,54 +34,23 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 <p align="center">
- <img src="" width="100%"/>
+ <img src="Sprint 1/imagem/equipe.jpg" width="100%"/>
 </p>
 
 # Objetivo do Projeto
-
-
+Temos como objetivo principal aumentar significativamente o número de vendas da empresa de produtos eletrônicos, modernizando e aprimorando os seus canais de venda, proporcionando um aumento sustentável na receita e melhorando a posição competitiva da empresa no mercado.
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="" width="100%"/>
-</p>
 
 ## Sprint 2
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="" width="100%"/>
-</p>
 
 ## Sprint 3
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="" width="100%"/>
-</p>
 
 ## Sprint 4
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="" width="100%"/>
-</p>
 
 ## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="" width="100%"/>
-</p>
 
 ## Tecnologias Utilizadas
 ### Produto 
@@ -102,18 +71,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
 
-<p align="center">
- <img src="" width="100%"/>
-</p>
 
 ## Burndown
->Colocar aqui Burndown do projeto
-
-<p align="center">
- <img src="" width="100%"/>
-</p>
 
 ## Sprint 1 - Concepção
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
@@ -165,7 +125,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| Vitor | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| Victor Hugo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Scrum Master| André Antunes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member| Danielle Vieira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member| Debora Valente | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
