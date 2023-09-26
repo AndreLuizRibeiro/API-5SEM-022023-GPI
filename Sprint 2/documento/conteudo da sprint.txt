@@ -1,46 +1,39 @@
-Abertura e apresentação dos integrantes
-    Boa noite, nos somos a empresa stronger solutions, este semestre estamos prestando consultoria a empresa Hertz de produtos                 eletronicos.
-    Nossa equipe é formada pelo andre antunes - Scrum Master, Vitor - Product Owner, Danielle Vieira, Debora Valente e João Pedro que         fazem parte do scrum team
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Apresentação da empresa
-    Missão:
-    Temos como missão principal fornecer soluções de consultoria empresarial de alta qualidade, ajudando os nossos clientes a alcançar o       sucesso e o crescimento sustentável nos seus negócios. 
-    
-    Visão:
-    Nossa visão é ser reconhecido como um parceiro de confiança e uma referência em inovação, excelência e compromisso com os nossos           clientes.
-    
-    Valores:
-    Visamos como valores: excelência;	Integridade; Colaboração;	Inovação; Compromisso.
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Introdução
-    Temos como objetivo principal aumentar significativamente o número de vendas da empresa de produtos eletrônicos, modernizando e           aprimorando os seus canais de venda, proporcionando um aumento sustentável na receita e melhorando a posição competitiva da empresa       no mercado.
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Métodos
-    Para isso pensamos na criação de uma conta comercial através da plataforma whatsapp, a viabilização da plataforma Shopee como meio de     venda, a utilização da plataforma instagram para auxiliar no marketing e divulgação da empresa, a apresentação de um novo fornecedor,     implementação da ferramenta uber flash para delivery de produtos.
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
 Próximos Passos
     Nesse primeiro momento iremos realizar uma pesquisa para entendermos a interface da plataforma WhatsApp, e assim poderemos realizar a     documentação do passo a passo e o modo de usar, tambem apresentaremos a plataforma shopee para vendas online.
 
 
-apresentação
-falar o nome da empresa e dizer q um dos integrantes deixou a empresa, e falar quem é o novo PO
+Apresentação
+Boa noite, nós somos a empresa stronger solutions, e vamos apresentar a segunda sprint do projeto, tivemos uma pequena mudança na nossa equipe, o nosso PO saiu do grupo, e agr o nosso novo PO é o João Pedro
 
 Topicos
-falar os topicos que seram abordados na apresentação
-
+Os topicos que seram abordados nesse sprint será o 
+    whatsapp business
+        o que é 
+        seus beneficios
+        as funcionalidades 
+        e como usa-lo 
+    
+    shopee
+        o que é 
+        quais os seus beneficios
+        e as suas taxas
 
 WhatsApp Business
   - o que é
-  - como funciona
-  - beneficios
+É um aplicativo gratuido, que foi criado com a intenção de auxiliar empresas na interação com seus clientes com funcionalidades exclusivas, alem dos conhecidos no app original, o WhatsApp Business é uma maneira excelente de estreitar a comunicação empresarial com o seu publico, oferecendo uma série de vantagens para empresas, incluindo
+
+1.	Ampla Base de Usuários: cerca de 147 milhoes, Uma Comunicação Direta e Rápida com os clientes, permite a Automação de Mensagens, auxilia na Segmentação dos Clientes, e na Segurança e Privacidade.
+
+Viabilidade:
+1.	Custo Acessível: 
+2.	Fácil de Usar: 
+3.	Integração com Outras Ferramentas: 
+4.	Adequação a Diferentes Setores: O WhatsApp Business é adequado para empresas de diversos setores, incluindo varejo, serviços, saúde e muito mais.
+5.	Legitimidade e Confiança: Ter um perfil comercial no WhatsApp pode aumentar a legitimidade e a confiança dos clientes, pois eles sabem que estão se comunicando com uma empresa legítima.
+6.	Evolução Contínua: O WhatsApp continua a adicionar recursos e melhorias à plataforma, tornando-a uma escolha sustentável para as empresas a longo prazo.
+
+O WhatsApp Business é uma plataforma de comunicação empresarial desenvolvida pelo WhatsApp, que oferece uma série de vantagens e é altamente viável para empresas de diversos tamanhos e setores. Aqui estão algumas das vantagens e considerações de viabilidade do WhatsApp Business:
+O WhatsApp Business é um aplicativo gratuito, que está disponível para Android e iPhone, e foi criado para atender às necessidades das empresas. Com esta ferramenta, que foi lançada em 2018, é possível simplificar as interações com os clientes e contar com uma série de recursos exclusivos, além, claro, das possibilidades já conhecidas da versão original do app, de enviar e receber mensagens de texto, vídeos, imagens e arquivos.
 
 estatisticas do whatsApp
   - quantas pessoas usam
@@ -49,6 +42,7 @@ estatisticas do whatsApp
 Como usar
   - Como usar
   - Mostrar funcionalidades
+
 
 Shopee
  - o que é
