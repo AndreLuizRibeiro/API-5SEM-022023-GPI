@@ -1,9 +1,5 @@
-Próximos Passos
-    Nesse primeiro momento iremos realizar uma pesquisa para entendermos a interface da plataforma WhatsApp, e assim poderemos realizar a     documentação do passo a passo e o modo de usar, tambem apresentaremos a plataforma shopee para vendas online.
-
-
 Apresentação
-Boa noite, nós somos a empresa stronger solutions, e vamos apresentar a segunda sprint do projeto, tivemos uma pequena mudança na nossa equipe, o nosso PO saiu do grupo, e agr o nosso novo PO é o João Pedro
+Boa noite, nós somos a empresa stronger solutions, e vamos apresentar a segunda sprint do projeto, tivemos uma pequena mudança na nossa equipe, o nosso PO saiu do grupo, e agr o nosso novo PO será o João Pedro
 
 Topicos
 Os topicos que seram abordados nesse sprint será o 
@@ -19,30 +15,31 @@ Os topicos que seram abordados nesse sprint será o
         e as suas taxas
 
 WhatsApp Business
-  - o que é
-É um aplicativo gratuido, que foi criado com a intenção de auxiliar empresas na interação com seus clientes com funcionalidades exclusivas, alem dos conhecidos no app original, o WhatsApp Business é uma maneira excelente de estreitar a comunicação empresarial com o seu publico,
+    o que é
+        o whatsapp business é um aplicativo gratuido, que foi criado com a intenção de auxiliar empresas na interação com seus clientes com funcionalidades exclusivas, alem dos conhecidos no app original, o WhatsApp Business é uma maneira excelente de estreitar a comunicação empresarial com o seu publico.
 
-beneficios
-ela oferece uma série de vantagens para empresas, incluindo, uma Ampla Base de Usuários: cerca de 147 milhoes, Uma Comunicação Direta e Rápida com os clientes, oferece a Automação de Mensagens, auxilia na Segmentação dos Clientes, e na Segurança e Privacidade.
-a utilização da plataforma é muito viável devido ao seu custo de implementação, a facilidade na utilização, possui interação com outras ferramentas, legitimidade e Confiança e a evolução Contínua do aplicativo.
+    beneficios
+        ele oferece uma série de vantagens para empresas, incluindo, uma Ampla Base de Usuários: cerca de 147 milhoes, Uma Comunicação Direta e Rápida com os clientes, oferece a Automação de Mensagens, auxilia na Segmentação dos Clientes, e na Segurança e Privacidade.
+        a utilização da plataforma é muito viável devido ao seu custo de implementação, a facilidade na utilização, possibilidade de interação com outras ferramentas, legitimidade e Confiança e a evolução Contínua do aplicativo.
 
-plataforma
-agora vamos apresentar a ferramenta e algumas funcionalidades
-ele é bem parecido com a plataforma WhatsApp então é bem fácil de aprender a mexer, um diferencial é a posibilidade de cadastrar um catálogo com os  produtos oferecidos pela empresa.
+    plataforma
+        agora vamos apresentar a ferramenta e algumas funcionalidades
+        ele é bem parecido com a plataforma WhatsApp então é bem fácil de aprender a mexer, um diferencial é a posibilidade de cadastrar um catálogo com os  produtos oferecidos pela empresa.
 
-implementação 
-para facilitar a implementação da plataforma na empresa criamos um passo a passo e um vídeo mostrando como cadastrar e utilizar a ferramenta, que seram disponibilizados para a empresa.
+    implementação 
+        para facilitar a implementação da plataforma na empresa criamos um passo a passo e um vídeo mostrando como cadastrar e utilizar a ferramenta, que seram disponibilizados para a empresa.
 
 Shopee
- a shopee é uma plataforma de vendas online
- - o que é
-  - como funciona
-  - beneficios
+    o que é
+        A Shopee é uma plataforma de comércio eletrônico, com ela é possivel realizar transações de compra e venda de uma variedade de produtos, a Shopee oferece uma experiência de compras online, onde os usuários podem navegar pelos produtos, fazer pedidos, pagar online e receber os produtos em suas casas. Um dos pontos a se levar em consideração ao utilizar a plataforma é que ela oferece uma série de recursos e promoções para atrair compradores, como descontos, vouchers, frete grátis e eventos de compras sazonais. 
 
-estatisticas da Shopee
-  - quantas pessoas usam
-  - Taxas da Shopee
+    Beneficios
+        a plataforma oferece uma variedade de vantagens para os vendedores como um alcance Global, cerca de 30 milhoes de usuarios só no brasil, Facilidade de Uso da ferramenta, o Marketing que a plataforma tras para o negocio, a empresa pode aderir o programa de frete gratis, as Avaliações e Reputação que você pode acumular com as vendas e o Atendimento ao Cliente que contribui para facilitar a resolução de problemas. Alem dos seus Custos Competitivos, a Segurança e Confiança que a plataforma oferece, os dados e Análises, e o potencial de crescimento que a plataforma proporciona.
+    
+    Taxas da Shopee
+        Bom agora vamos falar um pouco sobre as taxas que a plataforma possui, Existem dois níveis de comissão na Shopee: a comissão padrão e a comissão para vendedores que participam do Programa de Frete Grátis. a taxa para vendedores que não fazem parte do Programa de Frete Grátis - são 14% em cima do total + R$3 por item vendido, e a taxa para vendedores que fazem parte do Programa de Frete Grátis - 14% em cima do total + 6% do Programa de Frete Grátis + R$3 por item vendido. a comissão cobrada pela shopee não ultrapassa o valor de R$100 + R$3 por item vendido. em produtos que o valor é = ou menor q tres reais a taxa por item é de 50% de seu valor total.
 
 Próximos Passos
-  - Plataforma instagram
-  - novo fornecedor
+    O proximo passo será realizar uma pesquisa para entendermos a interface da plataforma instagram e como podemos utiliza-la para auxiliar a empresa, assim poderemos realizar a documentação do passo a passo e o modo de usar que auxiliara a empresa durante a aplicação, e tambem apresentaremos um novo fornecedor para que a empresa consiga Diversificar seus produtos e ter preços mais competitivos.
+
+e assim encerramos a apresentação Obrigado.
