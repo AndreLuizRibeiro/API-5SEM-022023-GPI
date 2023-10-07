@@ -22,10 +22,6 @@ WhatsApp Business
         ele oferece uma série de vantagens para empresas, incluindo, uma Ampla Base de Usuários: cerca de 147 milhoes, Uma Comunicação Direta e Rápida com os clientes, oferece a Automação de Mensagens, auxilia na Segmentação dos Clientes, e na Segurança e Privacidade.
         a utilização da plataforma é muito viável devido ao seu custo de implementação, a facilidade na utilização, possibilidade de interação com outras ferramentas, legitimidade e Confiança e a evolução Contínua do aplicativo.
 
-    plataforma
-        agora vamos apresentar a ferramenta e algumas funcionalidades
-        ele é bem parecido com a plataforma WhatsApp então é bem fácil de aprender a mexer, um diferencial é a posibilidade de cadastrar um catálogo com os  produtos oferecidos pela empresa.
-
     implementação 
         para facilitar a implementação da plataforma na empresa criamos um passo a passo e um vídeo mostrando como cadastrar e utilizar a ferramenta, que seram disponibilizados para a empresa.
 
@@ -37,7 +33,13 @@ Shopee
         a plataforma oferece uma variedade de vantagens para os vendedores como um alcance Global, cerca de 30 milhoes de usuarios só no brasil, Facilidade de Uso da ferramenta, o Marketing que a plataforma tras para o negocio, a empresa pode aderir o programa de frete gratis, as Avaliações e Reputação que você pode acumular com as vendas e o Atendimento ao Cliente que contribui para facilitar a resolução de problemas. Alem dos seus Custos Competitivos, a Segurança e Confiança que a plataforma oferece, os dados e Análises, e o potencial de crescimento que a plataforma proporciona.
     
     Taxas da Shopee
-        Bom agora vamos falar um pouco sobre as taxas que a plataforma possui, Existem dois níveis de comissão na Shopee: a comissão padrão e a comissão para vendedores que participam do Programa de Frete Grátis. a taxa para vendedores que não fazem parte do Programa de Frete Grátis - são 14% em cima do total + R$3 por item vendido, e a taxa para vendedores que fazem parte do Programa de Frete Grátis - 14% em cima do total + 6% do Programa de Frete Grátis + R$3 por item vendido. a comissão cobrada pela shopee não ultrapassa o valor de R$100 + R$3 por item vendido. em produtos que o valor é = ou menor q tres reais a taxa por item é de 50% de seu valor total.
+        Bom agora vamos falar um pouco sobre as taxas que a plataforma possui, Existem dois níveis de comissão na Shopee: 
+
+a comissão padrão:14% em cima do total + R$3 por item vendido
+
+e a comissão para vendedores que participam do Programa de Frete Grátis: 14% em cima do total + 6% do Programa de Frete Grátis + R$3 por item vendido. 
+a comissão cobrada pela shopee não ultrapassa o valor de R$100 + R$3 por item vendido.
+em produtos que o valor é = ou menor q tres reais a taxa por item é de 50% do valor total desse item.
 
 Próximos Passos
     O proximo passo será realizar uma pesquisa para entendermos a interface da plataforma instagram e como podemos utiliza-la para auxiliar a empresa, assim poderemos realizar a documentação do passo a passo e o modo de usar que auxiliara a empresa durante a aplicação, e tambem apresentaremos um novo fornecedor para que a empresa consiga Diversificar seus produtos e ter preços mais competitivos.
