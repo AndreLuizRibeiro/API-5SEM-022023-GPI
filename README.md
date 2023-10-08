@@ -44,7 +44,9 @@ Temos como objetivo principal aumentar significativamente o número de vendas da
 
 ## Sprint 1
 [![SPRINT 1](https://img.youtube.com/vi/43JI_SzZHZc/0.jpg)](https://youtu.be/43JI_SzZHZc)
+
 ## Sprint 2
+[![SPRINT 1](https://img.youtube.com/vi/AzW5JPCjWgI/0.jpg)](https://youtu.be/AzW5JPCjWgI)
 
 ## Sprint 3
 
