@@ -22,8 +22,8 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 23/08/2023 | concluido | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%201/documento/API%20%E2%80%93%20GPI%20%E2%80%93%20Quinto%20semestre%20-%202023.2%20-%20%20Eletr%C3%B4nica%20Hertz.pptx) | 
 |01 | 13/09/2023 | concluido | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%201/documento/apresenta%C3%A7%C3%A3o.pptx) | 
-|02|  11/10/2023| em progresso |[Ver Relatório]() | 
-|03| 08/11/2023 | a fazer |[Ver Relatório]() | 
+|02|  11/10/2023| em progresso |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%202/documento/power%20point%202.pptx) | 
+|03| 15/11/2023 | concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%203/documento/sprint%203.pptx) | 
 |04| 06/12/2023 |a fazer |[Ver Relatório]() |
 |Feira de Soluções| 12/12/2023 | a fazer |[Ver Relatório]() | 
 
@@ -46,9 +46,10 @@ Temos como objetivo principal aumentar significativamente o número de vendas da
 [![SPRINT 1](https://img.youtube.com/vi/43JI_SzZHZc/0.jpg)](https://youtu.be/43JI_SzZHZc)
 
 ## Sprint 2
-[![SPRINT 1](https://img.youtube.com/vi/AzW5JPCjWgI/0.jpg)](https://youtu.be/AzW5JPCjWgI)
+[![SPRINT 2](https://img.youtube.com/vi/AzW5JPCjWgI/0.jpg)](https://youtu.be/AzW5JPCjWgI)
 
 ## Sprint 3
+[![SPRINT 3](https://img.youtube.com/vi/jsYnzlkbvm32Y4La/0.jpg)](https://youtu.be/jsYnzlkbvm32Y4La)
 
 ## Sprint 4
 
@@ -127,8 +128,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| Victor Hugo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| João Pedro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Scrum Master| André Antunes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member| Danielle Vieira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member| Debora Valente | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| João Pedro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Victor Hugo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
