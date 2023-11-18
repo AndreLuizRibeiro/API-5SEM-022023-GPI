@@ -1,39 +1,74 @@
 Apresentação
-Boa noite, nós somos a empresa stronger solutions, e vamos apresentar a quarta e ultima sprint desse projeto
+Boa noite, nós somos a empresa stronger solutions, nesta sprint tivemos a adição de uma nova integrante a ana toledo, e nesta parte da consultoria vamos apresentar a quarta e ultima sprint
 
-------------------------------------------------------------------------------------------------------------------------------------------
 
 Topicos
 Os topicos que iremos abordar nesse sprint será o 
     Uber flash
         seus beneficios
-        as funcionalidades
-        e algumas taticas para auxiliar no uso 
+        taxas
+        e o modo de usar 
     
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 Uber flash
+O Uber Flash, uma extensão da plataforma Uber, representa uma inovação no cenário do transporte e da logística, oferecendo um serviço ágil e eficiente de entregas urbanas, proporcionando uma experiência de entrega rápida e confiável para consumidores e empresas.
 
 
-------------------------------------------------------------------------------------------------------------------------------------------
     
 beneficios
-      
+      a plataforma ofrece diversos beneficios para as empresas, como por exemplo: 
+Agilidade nas Entregas: O Uber Flash permite entregas rápidas e eficientes, proporcionando aos clientes a conveniência de receberem seus produtos no mesmo dia da compra.
+
+Rastreamento em Tempo Real: Tanto a empresa quanto o cliente podem acompanhar o status da entrega em tempo real, garantindo transparência e confiança no processo.
+
+Flexibilidade de Entrega: O Uber Flash oferece a flexibilidade de entregar produtos em locais específicos, adaptando-se às necessidades únicas de cada cliente.
+
+Custo Eficiente: Comparado a serviços de entrega tradicionais, o Uber Flash pode ser uma opção mais econômica, especialmente para entregas locais e rápidas.
   
 ------------------------------------------------------------------------------------------------------------------------------------------
     
-Funcionalidades
+Taxas
+a plataforma possui dois tipos de taxas: para carros e para motos
+são elas:
+moto
+as taxas da entrega por moto são calculadas pelo preço base que é de 1,40 + 0,2/min + 1,01/km
+carro
+as taxas da entrega por carro são calculadas pelo preço base que de 1,98 + 0,2/min + 1,34/km
 
+
+uso
+a seguir vamos mostrar como utilizar a plataforma para realizar as entregas
+Abra o Aplicativo Uber:
+
+Faça Login ou Cadastre-se:
+
+Selecione a Opção "Uber Flash":
+
+Informe o Local de Coleta e Destino:
+
+Insira os Detalhes da Entrega:
+
+Visualize o Orçamento Estimado:
+
+Confirme a Solicitação:
+
+Acompanhe a Entrega em Tempo Real:
+
+Receba a Entrega:
+
+Avalie a Experiência:
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Taticas de uso
-
-  
+para fornecer mais opçoes a empresa, e não prende-la a so um só meio de entrega pesquisamos um pouco sobre a loggi, que segue a mesma linha de serviço do uber flash, sua taxa é cobrada em cima do preço base que é de 12,90. Os passos para a utilização da plataforma segue o mesmo pricipio da uber flash.
+com mais de uma opção de delivery é possivel compara preços e ter uma maior flexibilidade.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 Conclusão
 
-
+Ao longo desta consultoria, nos empenhamos em desenvolver estratégias abrangentes e inovadoras para fortalecer o posicionamento e a viabilidade da empresa. Reconhecendo os desafios enfrentados, apresentamos soluções que abrangem diversas facetas do negócio, visando impulsionar as vendas, expandir o alcance de mercado e otimizar operações.
+Esta consultoria é um ponto de partida para a transformação positiva do negocio. A junção de tecnologias inovadoras, estratégias de marketing eficazes e parcerias estratégicas pode resultar em uma revitalização significativa do empreendimento. A chave está na adaptação constante às mudanças do mercado, na exploração de novas oportunidades e na manutenção de um compromisso inabalável com a satisfação do cliente.
+Estamos confiantes de que, com a implementação diligente dessas estratégias, a empresa não apenas superará os desafios atuais, mas também prosperará em um ambiente de negócios em constante evolução.
   
