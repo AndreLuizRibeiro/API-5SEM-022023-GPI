@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Aprendizado por Projeto Integrado (API)
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
@@ -20,12 +20,12 @@ Criar um planejamento e estrategias para auxiliar na recita da empresa de materi
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 23/08/2023 | concluido | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%201/documento/API%20%E2%80%93%20GPI%20%E2%80%93%20Quinto%20semestre%20-%202023.2%20-%20%20Eletr%C3%B4nica%20Hertz.pptx) | 
-|01 | 13/09/2023 | concluido | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%201/documento/apresenta%C3%A7%C3%A3o.pptx) | 
-|02|  11/10/2023| em progresso |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%202/documento/power%20point%202.pptx) | 
-|03| 15/11/2023 | concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%203/documento/sprint%203.pptx) | 
-|04| 06/12/2023 |a fazer |[Ver Relatório]() |
-|Feira de Soluções| 12/12/2023 | a fazer |[Ver Relatório]() | 
+|Kick Off| 23/08/2023 | concluído | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%201/documento/API%20%E2%80%93%20GPI%20%E2%80%93%20Quinto%20semestre%20-%202023.2%20-%20%20Eletr%C3%B4nica%20Hertz.pptx) | 
+|01| 13/09/2023 | concluído | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%201/documento/apresenta%C3%A7%C3%A3o.pptx) | 
+|02| 11/10/2023| concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%202/documento/power%20point%202.pptx) | 
+|03| 15/11/2023 | concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%203/documento/sprint%203.pptx) | 
+|04| 06/12/2023 | concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%204/documento/A.pptx) |
+|Feira de Soluções| 12/12/2023 | concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI) | 
 
 # Micro Certificações
 <p align="center">
@@ -51,20 +51,33 @@ Temos como objetivo principal aumentar significativamente o número de vendas da
 ## Sprint 3
 [![SPRINT 3](https://img.youtube.com/vi/66WgBU13oCw/0.jpg)](https://youtu.be/66WgBU13oCw)
 
-
 ## Sprint 4
-
-## Apresentação final (se necessario)
+[![SPRINT 3](https://img.youtube.com/vi/7EVbvnIaizU/0.jpg)](https://youtu.be/7EVbvnIaizU)
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+- Sprint 1
+  - Estratégias Propostas
+- Sprint 2
+  - Pesquisa de Mercado
+- Sprint 3
+  - Novo Layout e Insights
+- Sprint 4(Cancelada)
+  - Delivery e Fornecedores
 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+- PowerPoint
+- Canva
+- Git Projects
+- Scrum
+- Brainstorm
+- WhatsApp
+- Instagram
+- Uber
   
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+Encorajamos a busca por soluções criativas e inovadoras para os desafios, aproveitando as oportunidades digitais. Desenvolvendo tambem a capacidade de ser ágil e flexível, respondendo rapidamente às mudanças e oportunidades apresentadas.
+
 
 # Cronograma das Sprints
 
@@ -79,17 +92,34 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Burndown
 
-## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+## Sprint 1 
+- [x] Entendimento das expectativas do cliente
+- [x] BrainStorm
+- [x] Definição da abordagem
+- [x] Preparação das ferramentas
 
-## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+## Sprint 2 
+- [x] Pesquisa de mercado
+- [x] Registro das informações da pesquisa
+- [x] Análise dos dados registrados
+- [x] Criação de táticas estrattégicas para a empresa
+- [x] Planejamento para proximo passo
       
-## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-      
-## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+## Sprint 3 
+- [x] Análise do layout atual
+- [x] Disposição do ambiente
+- [x] Esboço do layout
+- [x] Layout Oficial
+- [x] Pesquisa por novo imóvel
+- [x] Imoveis selecionados
+- [x] Planejamento para proximo passo
+
+## Sprint 4(Cancelada) 
+- [ ] Pesquisa por novos fornecedores
+- [ ] Contactar fornecedores
+- [ ] Registrar fornecedores
+- [ ] Pesquisa por aplicativos e empresas de delivery
+- [ ] Análise da viabilidade dos meios de entrega encontrados
 
 
 # Competências desenvolvidas
@@ -101,12 +131,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Scrum | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Power Point | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Canva | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Brainstorm | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
 </details>
 
@@ -116,12 +146,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Pontualidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 
 </details>
 
@@ -131,6 +161,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | - | - | - |
 |Product Owner| João Pedro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Scrum Master| André Antunes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Ana Toledo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member| Danielle Vieira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member| Debora Valente | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member| Victor Hugo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
