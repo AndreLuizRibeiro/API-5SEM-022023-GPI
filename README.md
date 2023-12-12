@@ -34,7 +34,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 <p align="center">
- <img src="Sprint 1/imagem/equipe.jpg" width="100%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%204/imagem/equipe.jpg" width="100%"/>
 </p>
 
 # Objetivo do Projeto
@@ -59,11 +59,13 @@ Temos como objetivo principal aumentar significativamente o número de vendas da
 - Sprint 1
   - Estratégias Propostas
 - Sprint 2
-  - Pesquisa de Mercado
+  - WhatsApp
+  - Shopee
 - Sprint 3
-  - Novo Layout e Insights
-- Sprint 4(Cancelada)
-  - Delivery e Fornecedores
+  - Instagram
+  - Novo fornecedor
+- Sprint 4
+  - Delivery
 
 ### Tecnológias Específicas/Apoio
 - PowerPoint
@@ -85,58 +87,57 @@ Encorajamos a busca por soluções criativas e inovadoras para os desafios, apro
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/7)
-
-
 ## Backlog do produto
-
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%204/imagem/Untitled%20%E2%80%91%20Made%20with%20FlexClip%20(1).gif" width="100%"/>
+</p>
 
 ## Burndown
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/blob/main/Sprint%204/imagem/Untitled%20%E2%80%91%20Made%20with%20FlexClip.gif" width="100%"/>
+</p>
 
 ## Sprint 1 
 - [x] Entendimento das expectativas do cliente
 - [x] BrainStorm
 - [x] Definição da abordagem
-- [x] Preparação das ferramentas
+- [x] Pesqusia inicial
 
 ## Sprint 2 
-- [x] Pesquisa de mercado
-- [x] Registro das informações da pesquisa
-- [x] Análise dos dados registrados
-- [x] Criação de táticas estrattégicas para a empresa
+- [x] WhatsApp
+- [x] Shopee
+- [x] Viabilidade das ferramentas
+- [x] Modo de usar
 - [x] Planejamento para proximo passo
       
 ## Sprint 3 
-- [x] Análise do layout atual
-- [x] Disposição do ambiente
-- [x] Esboço do layout
-- [x] Layout Oficial
-- [x] Pesquisa por novo imóvel
-- [x] Imoveis selecionados
+- [x] Instagram
+- [x] Aplicabilidade da ferramenta
+- [x] Viabilidade da 'Reval'
+- [x] Modo de usar
 - [x] Planejamento para proximo passo
 
-## Sprint 4(Cancelada) 
-- [ ] Pesquisa por novos fornecedores
-- [ ] Contactar fornecedores
-- [ ] Registrar fornecedores
-- [ ] Pesquisa por aplicativos e empresas de delivery
-- [ ] Análise da viabilidade dos meios de entrega encontrados
-
+## Sprint 4
+- [x] Pesquisa por aplicativos e empresas de delivery
+- [x] Uber Flash
+- [x] Loggi
+- [x] Vantagens das ferramentas
+- [x] Modo de usar
+- [x] Taxas
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
-
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| Word | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Scrum | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Power Point | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Canva | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Brainstorm | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Scrum | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Power Point | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Canva | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Brainstorm | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
  
 </details>
 
